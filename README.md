@@ -2,7 +2,7 @@
 
 A structured collection of **18 hands-on cybersecurity projects**: six beginner, six intermediate, and six advanced labs.
 
-Explore the [project index](https://github.com/tsedeneya-bayew/cybersecurity-portfolio).
+Explore the [project index](https://github.com/tsedeneya-bayew/cybersecurity-projects).
 
 ## Learning areas
 
@@ -10,9 +10,9 @@ Linux and Windows security · Network analysis · Python automation · Digital f
 
 ## Project documentation
 
-Each repository contains a step-by-step lab guide, explanations, screenshot checkpoints, troubleshooting notes, and a findings template.
+Each project folder contains a step-by-step lab guide, explanations, screenshot checkpoints, troubleshooting notes, and a findings template.
 
-**Status:** These repositories begin as prepared lab guides. They do not represent completed investigations or proven outcomes. Actual screenshots and findings will be added as the labs are completed.
+**Status:** These projects begin as prepared lab guides. They do not represent completed investigations or proven outcomes. Actual screenshots and findings will be added as the labs are completed.
 
 | Status | Meaning |
 |---|---|
