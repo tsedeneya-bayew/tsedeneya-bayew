@@ -1,23 +1,55 @@
-# Cybersecurity Learning Portfolio
+# Tsedeneya Bayew
 
-A structured collection of **18 hands-on cybersecurity projects**: six beginner, six intermediate, and six advanced labs.
+### Cybersecurity Student · CompTIA Security+ · WiCyS Chapter President
 
-Explore the [project index](https://github.com/tsedeneya-bayew/cybersecurity-projects).
+I am a cybersecurity student at the **University of the District of Columbia (UDC)**, expecting to graduate in **Spring 2027**. My interests include security analysis, incident response, AI security, and operational technology security.
 
-## Learning areas
+Through research, laboratory work, and teaching, I am building practical experience and learning how to explain technical concepts clearly. This GitHub profile brings together my background and the projects I am working through.
 
-Linux and Windows security · Network analysis · Python automation · Digital forensics · Incident response · Secure development · AI security · OT/ICS threat modeling
+## Education & Certification
 
-## Project documentation
+- **Cybersecurity undergraduate**, University of the District of Columbia — expected graduation: Spring 2027
+- **CompTIA Security+ (SY0-701)** — passed September 2026
 
-Each project folder contains a step-by-step lab guide, explanations, screenshot checkpoints, troubleshooting notes, and a findings template.
+## Experience
 
-**Status:** These projects begin as prepared lab guides. They do not represent completed investigations or proven outcomes. Actual screenshots and findings will be added as the labs are completed.
+**Cybersecurity Research & Laboratory Support — UDC**
 
-| Status | Meaning |
+- Worked as a Research Assistant and Lab Analyst, supporting cybersecurity research and hands-on laboratory activities.
+- Helped establish UDC's cybersecurity lab.
+- During a six-week summer 2026 internship, taught high school students topics including Linux commands, cryptography, digital forensics, reverse engineering, and web exploitation.
+
+## Leadership
+
+**President — Women in Cybersecurity (WiCyS), UDC Chapter**
+
+I help organize chapter activities, connect students with learning opportunities, and support a community of women pursuing cybersecurity.
+
+## Technical Background
+
+| Area | Tools & Topics |
 |---|---|
-| Not started | Guide prepared; execution not documented |
-| In progress | Lab underway; evidence being collected |
-| Completed | Actual evidence and final report included |
+| Operating systems | Linux, Kali Linux, Ubuntu, Windows 11 virtual machines |
+| Programming | Python, C |
+| Application security | DVWA, SQL injection, cross-site scripting, file inclusion |
+| Analysis tools | PEview, HashCalc, VirusTotal, IDA Pro |
+| Lab & documentation tools | Docker Desktop, GitHub, Hack The Box Academy |
 
-All hands-on testing is scoped to owned or explicitly authorized lab systems.
+These reflect tools and topics I have studied or used; my project reports will document the specific work and outcomes.
+
+## Cybersecurity Projects
+
+**[Explore my cybersecurity project collection →](https://github.com/tsedeneya-bayew/cybersecurity-projects)**
+
+The collection includes **18 guided labs**: six beginner, six intermediate, and six advanced projects. It covers Linux and Windows security, network analysis, Python automation, digital forensics, incident response, secure development, AI security, and OT/ICS threat modeling.
+
+I will add my own screenshots, observations, and findings as I complete each lab. Each project clearly shows whether it is **Not started**, **In progress**, or **Completed**.
+
+## Career Interests
+
+- Cybersecurity analysis and security operations
+- Incident response and digital forensics
+- AI security and AI red teaming
+- OT/ICS security research
+
+I am interested in opportunities where I can keep learning, contribute to a team, and turn technical findings into clear, useful recommendations.
