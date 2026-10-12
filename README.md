@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="tsedeneya-cyber-qualifications.gif" alt="Animated cybersecurity character showcasing CompTIA Security+, WiCyS leadership, and beginner, intermediate, and advanced labs" width="640" />
+</p>
+
 # Tsedeneya Bayew
 ### Cybersecurity • Research • Teaching • Community
 
