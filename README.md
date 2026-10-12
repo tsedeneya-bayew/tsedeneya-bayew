@@ -1,55 +1,67 @@
 # Tsedeneya Bayew
+### Cybersecurity • Research • Teaching • Community
 
-### Cybersecurity Student · CompTIA Security+ · WiCyS Chapter President
+**CompTIA Security+ certified | WiCyS UDC Chapter President | UDC cybersecurity undergraduate**
 
-I am a cybersecurity student at the **University of the District of Columbia (UDC)**, expecting to graduate in **Spring 2027**. My interests include security analysis, incident response, AI security, and operational technology security.
+[LinkedIn](https://www.linkedin.com/in/tsedeneya-bayew/) · [Explore my projects](https://github.com/tsedeneya-bayew/cybersecurity-projects)
 
-Through research, laboratory work, and teaching, I am building practical experience and learning how to explain technical concepts clearly. This GitHub profile brings together my background and the projects I am working through.
+I build practical security skills through research, hands-on labs, and teaching. My interests span security analysis, network defense, AI security, and OT/ICS integrity monitoring.
 
-## Education & Certification
+**University of the District of Columbia · 4.0 GPA · Expected graduation: December 2027**
 
-- **Cybersecurity undergraduate**, University of the District of Columbia — expected graduation: Spring 2027
-- **CompTIA Security+ (SY0-701)** — passed September 2026
+---
 
-## Experience
+## 🔬 Spotlight: PLC & Sensor Integrity Monitoring
 
-**Cybersecurity Research & Laboratory Support — UDC**
+An in-progress OT/ICS research prototype connecting a **Simulink water-tank model** to a **CODESYS soft PLC** through **Modbus TCP**.
 
-- Worked as a Research Assistant and Lab Analyst, supporting cybersecurity research and hands-on laboratory activities.
-- Helped establish UDC's cybersecurity lab.
-- During a six-week summer 2026 internship, taught high school students topics including Linux commands, cryptography, digital forensics, reverse engineering, and web exploitation.
+- Compare the PLC report with the direct simulated plant level.
+- Demonstrate a controlled **10-percentage-point reporting offset** and an alert above a **2-point mismatch threshold**.
+- Visualize plant level, PLC report, pump state, mismatch, and alerts in a **live MATLAB 3D view**.
+- Document baseline operation, alert activation, and recovery with source code and screenshots.
 
-## Leadership
+[View the project](https://github.com/tsedeneya-bayew/cybersecurity-projects/blob/main/advanced/19-plc-sensor-integrity-monitor/README.md) · [3D demonstration guide](https://github.com/tsedeneya-bayew/cybersecurity-projects/blob/main/advanced/19-plc-sensor-integrity-monitor/3D-SIMULATION.md)
 
-**President — Women in Cybersecurity (WiCyS), UDC Chapter**
+![Live 3D simulation showing a PLC report mismatch alert](https://github.com/tsedeneya-bayew/cybersecurity-projects/raw/refs/heads/main/advanced/19-plc-sensor-integrity-monitor/screenshots/07-3d-alert.png)
 
-I help organize chapter activities, connect students with learning opportunities, and support a community of women pursuing cybersecurity.
+*Status: In progress. Detection, recovery, and live 3D visualization demonstrated in a simulation lab; broader research continues.*
 
-## Technical Background
+## 🛠️ Documented Labs
 
-| Area | Tools & Topics |
+| Project | What it demonstrates | Status |
+|---|---|---|
+| [Linux Users & File Permissions](https://github.com/tsedeneya-bayew/cybersecurity-projects/blob/main/beginner/01-linux-permissions/README.md) | User access and file permissions | Completed |
+| [File Integrity with SHA-256](https://github.com/tsedeneya-bayew/cybersecurity-projects/blob/main/beginner/02-file-integrity/README.md) | Hash-based file integrity checks | Completed |
+| [Wireshark Traffic Analysis](https://github.com/tsedeneya-bayew/cybersecurity-projects/blob/main/beginner/03-wireshark-analysis/README.md) | Network packet inspection | Completed |
+| [PLC & Sensor Integrity Monitoring](https://github.com/tsedeneya-bayew/cybersecurity-projects/blob/main/advanced/19-plc-sensor-integrity-monitor/README.md) | Process reporting integrity and live alerts | In progress |
+
+[Browse the full project roadmap →](https://github.com/tsedeneya-bayew/cybersecurity-projects)
+
+My collection contains **19 project guides** across beginner, intermediate, and advanced levels. Completed work includes screenshots and findings; other projects retain their documented progress status.
+
+## 🎓 Research, Teaching & Leadership
+
+- **Research Assistant & Lab Analyst, UDC:** cybersecurity research, network analysis, and virtual lab support; helped establish UDC’s cybersecurity lab.
+- **Cybersecurity Instructor / Research Assistant & Lab Analyst, June–August 2026:** helped teach high school students Linux, cryptography, digital forensics, reverse engineering, web exploitation, and CTF exercises.
+- **President, WiCyS UDC Chapter, August 2026–Present:** member outreach, chapter activities, event planning, and faculty coordination.
+
+## ⚙️ Tools & Topics
+
+| Area | Tools and topics I have studied or used |
 |---|---|
-| Operating systems | Linux, Kali Linux, Ubuntu, Windows 11 virtual machines |
-| Programming | Python, C |
-| Application security | DVWA, SQL injection, cross-site scripting, file inclusion |
-| Analysis tools | PEview, HashCalc, VirusTotal, IDA Pro |
-| Lab & documentation tools | Docker Desktop, GitHub, Hack The Box Academy |
+| Systems | Linux, Kali Linux, Ubuntu, Windows 11, virtual machines |
+| Programming | Python, C, MATLAB |
+| Network analysis | Wireshark, pfSense |
+| OT/ICS | Simulink, CODESYS, Modbus TCP, PLC integrity monitoring |
+| Security labs | DVWA, Docker Desktop, Hack The Box Academy |
+| Analysis | PEview, HashCalc, VirusTotal, IDA Pro |
 
-These reflect tools and topics I have studied or used; my project reports will document the specific work and outcomes.
+## 🏅 Academic Recognition
 
-## Cybersecurity Projects
+Dean’s List (2025 & 2026) · High Honors (2026) · Highest Honors (2026) · Top Freshman (2025) · Verizon–UDC Next-Gen Scholarship (2026)
 
-**[Explore my cybersecurity project collection →](https://github.com/tsedeneya-bayew/cybersecurity-projects)**
+---
 
-The collection includes **18 guided labs**: six beginner, six intermediate, and six advanced projects. It covers Linux and Windows security, network analysis, Python automation, digital forensics, incident response, secure development, AI security, and OT/ICS threat modeling.
+**Open to cybersecurity internships and entry-level opportunities.**
 
-I will add my own screenshots, observations, and findings as I complete each lab. Each project clearly shows whether it is **Not started**, **In progress**, or **Completed**.
-
-## Career Interests
-
-- Cybersecurity analysis and security operations
-- Incident response and digital forensics
-- AI security and AI red teaming
-- OT/ICS security research
-
-I am interested in opportunities where I can keep learning, contribute to a team, and turn technical findings into clear, useful recommendations.
+I enjoy investigating technical problems, documenting what I learn, and helping others understand cybersecurity.
